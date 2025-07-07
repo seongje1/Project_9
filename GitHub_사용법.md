@@ -22,9 +22,11 @@ ex) "cd \\" 입력 후 cd Python\_Source ==> cd project\_file ==> cd Project\_9
 
 1) git init
 
-2) git clone https://github.com/seongje1/Project\_9.git
+2) git clone https://github.com/seongje1/Project\_9.git team\_{숫자}
 
    ## 완료 시 master에 있는 파일들이 다 만들어져 있음.
+
+&nbsp;   ## team\_{숫자}라는 파일이 생길 거임
 
 3) Terminal에서 git checkout team\_{숫자} ; 숫자는 1 ~ 4
 
@@ -64,5 +66,5 @@ ex) "cd \\" 입력 후 cd Python\_Source ==> cd project\_file ==> cd Project\_9
 
 **## 데이터 병합하기 ##**
 
-1\) MERGE할때는 GITHUB 사이트의 PR(PULL REQUEST)를 사용해서 할 것임.
+1) MERGE할때는 GITHUB 사이트의 PR(PULL REQUEST)를 사용해서 할 것임.
 
