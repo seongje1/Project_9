@@ -60,3 +60,9 @@ ex) "cd \\" 입력 후 cd Python\_Source ==> cd project\_file ==> cd Project\_9
 
 7) GITHUB에 들어가서 잘올라갔는지 확인 ==> 끝!!
 
+
+
+**## 데이터 병합하기 ##**
+
+1\) MERGE할때는 GITHUB 사이트의 PR(PULL REQUEST)를 사용해서 할 것임.
+
